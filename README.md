@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on Cloud Computing and Data Analysis.<br>👯 I’m looking to collaborate on coding focused on Machine & Reinforcement Learning.<br>🤝 Also looking for the chance to work with Cloud structures to use tools Artificial Intelligence.<br>🌱 Currently I'm learning AWS system on Coursera.<br>💬 Ask me about Pure & Applied Mathematics, I love it!<br>⚡ Fun fact: I tried to learn C years before, and I was shocked when I discovered<br>      how Python was so much easier to code.
+🔭 I’m working on Cloud Computing and Data Analysis right now.<br>👯 I’m looking to collaborate on coding focused on Machine & Reinforcement Learning.<br>🤝 Also looking for the chance to work with Cloud structures to use tools Artificial Intelligence.<br>🌱 Currently I'm learning AWS system on Coursera.<br>💬 Ask me about Pure & Applied Mathematics, I love it!<br>⚡ Fun fact: I tried to learn C years before, and I was shocked when I discovered<br>      how Python was so much easier to code.
 
 
 ## 🌐 Socials:
